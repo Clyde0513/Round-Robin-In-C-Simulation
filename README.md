@@ -34,10 +34,6 @@ for 5 quantum length (same txt file):
 Average waiting time: 5.50
 Average response time: 3.25
 
-```shell
-
-```
-
 ## Cleaning up
 
 ```shell
