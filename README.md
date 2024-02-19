@@ -22,6 +22,7 @@ processes in the simulation system. Then in each line, the first column is PID, 
 arrival time, and the last column is burst time.
 results
 
+```
 Results:
 
 for 3 quantum length (same txt file):
@@ -33,6 +34,7 @@ Average response time: 4.75
 for 5 quantum length (same txt file):
 Average waiting time: 5.50
 Average response time: 3.25
+```
 
 ## Cleaning up
 
